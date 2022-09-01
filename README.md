@@ -3,4 +3,4 @@ Pipeline do Azure DevOps para automação de testes (com Postman + Newman) utili
 
 Projeto que serviu de base para a elaboração deste pipeline:
 
-**https://github.com/renatogroffe/ASPNETCore6-REST_API-SqlServer-EFCore-Migrations-Postman_ChamadosSuporte**
+**https://github.com/azurenapratica/ASPNETCore6-REST_API-SqlServer-EFCore-Migrations-Postman_ChamadosSuporte**
